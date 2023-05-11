@@ -1,0 +1,17 @@
+#number{
+    font-size: 100px;
+}
+#plus{
+margin-top: 4cm;
+background-color: green;
+}
+#minus{
+    margin-left: 2cm;
+    background-color: red;
+}
+body{
+    text-align: center;
+}
+#reset{
+ margin-bottom: 300cm;    
+}
